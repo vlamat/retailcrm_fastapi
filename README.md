@@ -8,8 +8,8 @@ REST API для работы с RetailCRM через FastAPI.
 1. Создайте `.env`:
 
 ```bash
-RETAILCRM_API_URL=Ваш адресс
-RETAILCRM_API_KEY=Ваш API
+RETAILCRM_API_URL=адрес
+RETAILCRM_API_KEY=API
 ```
 
 2. Запустите:
